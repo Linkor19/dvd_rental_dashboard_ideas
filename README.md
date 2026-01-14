@@ -23,7 +23,7 @@ The dashboard is designed with a focus on **Actionable Analytics**, allowing sta
 
 ### 3. Financial Performance
 * **MVU (Most Valuable User) Revenue:** Calculates the exact revenue contribution from the top customer of the previous month.
-* **Global Sales Geography:** Interactive map visualizing revenue distribution and store performance across different regions.
+* **Global Sales Geography:** Interactive map visualizing revenue distribution and store performance across different regions. 
 ![Dashboard Demo](3.gif)
 
 ---
